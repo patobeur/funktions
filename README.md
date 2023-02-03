@@ -1,2 +1,2 @@
 # funktions
-a lot of my useful functions
+some of my usefuls js scripts
