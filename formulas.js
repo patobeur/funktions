@@ -1,4 +1,4 @@
-class Formoulas {
+class Formulas {
 	constructor() {
 	}
 	getNextPos = (x, y, theta, speed) => {
