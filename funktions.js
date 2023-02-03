@@ -297,4 +297,3 @@ class Funktions {
 		return 0;
 	}
 }
-const funktions = new Funktions();
