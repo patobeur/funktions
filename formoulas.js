@@ -1,4 +1,4 @@
-class Formulas {
+class Formoulas {
 	constructor() {
 	}
 	getNextPos = (x, y, theta, speed) => {
@@ -121,4 +121,3 @@ class Formulas {
 		}
 	}
 }
-const formulas = new Formulas();
