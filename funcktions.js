@@ -297,4 +297,4 @@ class Funktions {
 		return 0;
 	}
 }
-const Funk = new Funktions();
+const funktions = new Funktions();
